@@ -1,4 +1,4 @@
-# avro-bangla
+# avro-bangla Angular
 Enable Bangla front to a textbox or a textarea with Angular using Avro Phonetic.  To enable Bangla in a textbox it is needed to use 
 
 1.  avro-lib.js
