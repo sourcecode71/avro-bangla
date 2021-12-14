@@ -6,7 +6,7 @@ Enable Bangla front to a textbox or a textarea with Angular using Avro Phonetic.
 3.	qunit.js
 4.	avro-lib.test.js 
 
-## Add theses library in Angular.js
+## Add theses library in angular.json
 ![dist](https://github.com/sourcecode71/images/blob/master/avro-library-add.png)
 
 ## Add the following line inside 
